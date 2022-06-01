@@ -45,7 +45,6 @@ do {
     print("Какая-то ещё ошибка.")
 }
 
-//
 
 enum  HumanError: Error {
     case wrongApartment
